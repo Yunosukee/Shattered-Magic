@@ -1,0 +1,112 @@
+DONE
+UI/Inventory:
+- Naprawić system inventory
+- Poprawić wyświetlanie przedmiotów w slotach
+- Toast notification improvements:
+  - Lepszy layout z ikoną i tekstem
+  - Animacja fade in/out z przesunięciem
+
+System zbierania:
+- Przerobić ResourceGatherer na uniwersalny system:
+  - Configurowalny czas zbierania
+  - Wymagany level do zbierania
+  - Wpływ skilli na szybkość
+- Dodać do CrystalNode:
+  - Gather time
+  - EXP gain
+  - Required level
+
+TODO
+UI/Inventory:
+- Dodać tooltip z informacjami o przedmiocie
+- Dodać sortowanie inventory
+- Toast notification improvements:
+  - Zaokrąglone rogi
+  - Kolejkowanie wielu toastów
+  
+System zbierania:
+- Przerobić ResourceGatherer na uniwersalny system:
+  - Wpływ skilli na szybkość
+- Dodać do CrystalNode:
+  - Crystal type/rarity
+
+System craftingu:
+- Podstawowy system przepisów
+- UI do craftingu
+- Wymagania materiałowe
+- Czas craftowania
+- Wpływ skilli na crafting
+
+Podstawowe zasoby:
+- Drewno (Wood Node)
+- Ruda (Ore Node)
+- Zioła (Herb Node)
+- System polowania na skóry (Hunting)
+
+System przetwarzania:
+- Piec do wytapiania rud:
+  - Badania nad użyciem magii ognia
+  - Ulepszenia pieca
+  - Różne typy sztabek
+
+Zielarstwo:
+- System zbierania ziół
+- Identyfikacja rzadkich roślin
+- Przetwarzanie na mikstury
+- Wpływ umiejętności na jakość
+
+Hunting:
+- System polowania
+- Różne typy skór
+- Przetwarzanie skór
+- Craftowanie z skór
+
+Badania:
+- System badań nad piecem
+- Ulepszenia procesu wytapiania
+- Integracja magii elementarnej
+- Nowe przepisy na zaawansowane materiały
+
+Poziomy zasobów:
+
+Drewno (Woodcutting):
+- lvl 1: Miękkie drewno (Softwood)
+- lvl 10: Twarde drewno (Hardwood) 
+- lvl 25: Dębowe drewno (Oak)
+- lvl 40: Ciemne drewno (Darkwood)
+- lvl 60: Magiczne drewno (Magicwood)
+- lvl 80: Starożytne drewno (Ancientwood)
+- lvl 100: Mistyczne drewno (Mysticwood)
+
+Rudy (Mining):
+- lvl 1: Kamień (Stone)
+- lvl 5: Ruda miedzi (Coper Ore)
+- lvl 10: Ruda żelaza (Iron Ore)
+- lvl 25: Ruda srebra (Silver Ore) 
+- lvl 40: Ruda złota (Gold Ore)
+- lvl 60: Ruda mithrilu (Mithril Ore)
+- lvl 80: Ruda adamantytu (Adamantite Ore)
+- lvl 100: Ruda eteru (Ethereal Ore)
+
+Zioła (Herbalism):
+- lvl 1: Pospolite zioła (Common Herbs)
+- lvl 10: Lecznicze zioła (Healing Herbs)
+- lvl 25: Magiczne zioła (Magic Herbs)
+- lvl 40: Rzadkie zioła (Rare Herbs)
+- lvl 60: Starożytne zioła (Ancient Herbs)
+- lvl 80: Mistyczne zioła (Mystic Herbs)
+- lvl 100: Legendarne zioła (Legendary Herbs)
+
+Skóry (Hunting):
+- lvl 1: Skóra wilka (Wolf Hide)
+- lvl 10: Skóra niedźwiedzia (Bear Hide)
+- lvl 25: Skóra gryfa (Griffin Hide)
+- lvl 40: Skóra smoka (Dragon Hide)
+- lvl 60: Skóra feniksa (Phoenix Hide)
+- lvl 80: Skóra lewiatana (Leviathan Hide)
+- lvl 100: Skóra tytana (Titan Hide)
+
+System stabilności:
+- Podstawowy system stabilności kryształów
+- Wizualizacja poziomu stabilności
+- Wpływ umiejętności Stabilization na jakość zebranych kryształów

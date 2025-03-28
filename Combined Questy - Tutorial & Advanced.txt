@@ -1,0 +1,85 @@
+Combined Questy - Tutorial & Advanced
+========================================
+
+Cel:
+   Połączyć w jednym ciągu narracyjnym naukę podstawowych mechanik oraz wprowadzenie do zaawansowanych technologii i starożytnego lore.
+   Questy od samouczka uczą gracza podstaw (zbieranie surowców, craftowanie, ekwipowanie) i wprowadzają atmosferę świata,
+   natomiast advanced questy rozwijają poznaną mechanikę o nowe elementy badawcze, archeologię i odkrywanie starożytnej technologii.
+
+----------------------------------------------------------
+Quest 1 - "Opowieść o Początkach"
+---------------------------------
+Cel:
+   Przez interakcję z elementami otoczenia i prostymi zadaniami gracz poznaje lore świata oraz fundamenty magii.
+
+Zadania:
+   • Udaj się do opuszczonej biblioteki w obrębie osady.
+   • Kliknij na interaktywny eksponat - stary pergamin, który uruchomi narrację o Pierwotnej Magii.
+   • Obejrzyj inskrypcję na zniszczonej ścianie, która opowiada historię Wielkiej Katastrofy i rozproszenia magicznych kryształów.
+
+Nagrody:
+   • Odblokowanie fragmentu lore - notatka o tajemniczym artefakcie, który będzie potrzebny przy kolejnych questach.
+   • Brak kosztów surowców - quest pełni funkcję wprowadzenia w historię i klimat świata gry.
+
+----------------------------------------------------------
+Quest 2 - "Pierwsze Narzędzia, Pierwsze Zbiory"
+-------------------------------------------------
+Cel:
+   Nauka podstawowych mechanik: zbieranie surowców (drewno, kamień), craftowanie podstawowych narzędzi oraz aktywacja umiejętności ekstrakcji.
+
+Zadania:
+   1. Zbieranie Surowców:
+         • Zbierz 10 sztuk drewna z pobliskiego lasu.
+         • Zbierz 10 kamieni z wyznaczonej skały.
+   2. Craftowanie Narzędzia:
+         • Użyj zebranych surowców w warsztacie, aby stworzyć "Podstawowy Kilof".
+   3. Ekwipowanie:
+         • Załóż Podstawowy Kilof w odpowiednim slocie narzędzi, co automatycznie aktywuje umiejętność "Ekstrakcja".
+   4. Test w terenie:
+         • Udaj się do strefy testowej i użyj kilofa, aby wydobyć "Kryształ Pierwotnej Magii" - specjalny surowiec wskazujący na aktywację skillu ekstrakcji.
+
+Nagrody:
+   • Odblokowanie umiejętności "Ekstrakcja", która zwiększa efektywność wydobycia kryształów.
+   • Fragment lore wyjaśniający znaczenie magicznych kryształów oraz początki technologii wydobycia.
+   • Podstawowy kilof, stanowiący fundament do dalszych ulepszeń i rozwoju narzędzi.
+
+----------------------------------------------------------
+Quest 3 - "Przebudzenie Esencji"
+---------------------------------
+Cel:
+   Ugruntowanie osiągnięć badawczych poprzez zdobycie esencji o różnych właściwościach, umożliwiających dalszy rozwój technologii i magii.
+
+Zadania:
+   • Udać się do Ruin Płonących Świątyń - miejsca, gdzie energia ognia i ziemi splatają się w chaotycznej aurze.
+   • Zebrać:
+         - 15 jednostek Esencji Ognia (znalezionych w płomieniach magicznych ruin)
+         - 10 jednostek Esencji Ziemi (wydobytych z magicznych szczelin skalnych)
+   • Wrócić do Laboratorium Badawczego i przeprowadzić eksperyment "Przebudzenie Esencji", w którym zebrane esencje zostaną zharmonizowane.
+
+Nagrody:
+   • Odblokowanie umiejętności "Harmonizacja Esencji" - tymczasowa premia do wydobycia kryształów i modyfikacja receptur badawczych.
+   • Fragment lore - legenda o pradawnych rytuałach ujarzmiających surowe energie natury.
+   • Dodatkowe jednostki badań, które można przeznaczyć na dalsze eksperymenty.
+
+----------------------------------------------------------
+Quest 4 - "Archeologia Magii: Zagubione Relikwie"
+-------------------------------------------------
+Cel:
+   Odkrycie starożytnej technologii, która kryje się w ruinach zapomnianych cywilizacji, oraz wzmocnienie infrastruktury badawczej.
+
+Zadania:
+   • Udaj się do strefy Archeologicznej - terenu zrujnowanych budowli, gdzie natura zdominowała pozostałości dawnych technologii.
+   • Odnaleźć 3 fragmenty starożytnych artefaktów (np. inskrypcje, fragmenty mosiężnych mechanizmów) rozsianych po ruinach.
+   • Zanieść znalezione fragmenty do Centrum Technologicznego, gdzie eksperci złożą relikwie w całość.
+   • W trakcie rekonstrukcji przeprowadź interaktywną sekwencję - mini-grę polegającą na dopasowaniu elementów, symbolizującą odblokowywanie zapomnianych technologii.
+
+Nagrody:
+   • Odblokowanie ścieżki badań "Archeologia Magii" - dającej dostęp do starożytnych receptur i ulepszeń infrastruktury (np. zwiększenie wydajności pieców czy automatycznych kolektorów).
+   • Fragment lore - opowieść o epoce, która zmieniła bieg rozwoju magiczno-technologicznego w świecie.
+   • Dodatkowe jednostki badań oraz bonus do przyszłych eksperymentów związanych z rekonstrukcją technologii.
+
+----------------------------------------------------------
+Uwagi:
+Każdy quest został zaprojektowany tak, aby stopniowo rozwijać umiejętności gracza oraz pogłębiać jego wiedzę o świecie. 
+Tutorialowe questy (1 i 2) wprowadzają podstawowe mechaniki i immersję fabularną, natomiast questy zaawansowane (3 i 4) 
+poszerzają zakres rozwoju technologii, badań oraz odkrywania starożytnego lore, zgodnie z wizją przedstawioną w Propozycje Badań.txt, GamePlan.txt i TODO.txt.

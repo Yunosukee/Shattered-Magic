@@ -1,0 +1,75 @@
+Propozycje Badań z Jednostkami Badań (bez wymogu czasu)
+
+Każde badanie wymaga określonej liczby "jednostek badań" - symbolicznej waluty badawczej, której zdobycie jest kluczowe dla uruchomienia eksperymentów i postępu technologicznego.
+Jednostki badań można pozyskać na kilka sposobów:
+   • Misje i zadania: Ukończenie specjalnych misji eksploracyjnych lub badawczych nagradza gracza jednostkami badań.
+   • Produkcja pasywna: Budowa i ulepszanie budynków badawczych (laboratoria, centra technologiczne) generuje jednostki badań z biegiem czasu.
+   • Przetwarzanie surowców: Nadmiar rzadkich surowców (np. esencji, fragmentów artefaktów) można wymienić na jednostki badań.
+   • Eventy specjalne: Okazjonalne wyzwania lub mini-gry mogą przyznawać bonusowe jednostki badań.
+
+----------------------------------------------------------
+1. Odblokowanie Pieca
+   • Wymagania:
+       - Skill Engineering: poziom 5
+       - Esencja ognia: 10 jednostek
+       - Kamień/cegły: 25 sztuk
+   • Koszt:
+       - 150 jednostek badań
+   • Efekt:
+       - Odblokowanie możliwości budowy pieca, który topi rudę i przetwarza materiały.
+       - Ulepszenia wpływające na wydajność procesów rzemieślniczych.
+   • Zastosowanie:
+       - Podstawa do kolejnych badań i ulepszeń systemu przetwarzania surowców.
+
+2. Autonomiczny Zbieracz Rudy
+   • Wymagania:
+       - Skill Engineering: poziom 7
+       - Komponenty mechaniczne: 20 metalowych części
+       - Dodatkowo: 5 jednostek esencji ziemi lub wody
+   • Koszt:
+       - 150 jednostek badań
+   • Efekt:
+       - Odblokowanie systemu automatycznego zbierania nie tylko rudy, ale i innych surowców.
+       - Ulepszenie wydajności pozyskiwania surowców oraz zmniejszenie wymagań materiałowych w kolejnych etapach.
+   • Zastosowanie:
+       - Automatyzacja procesu pozyskiwania surowców, umożliwiająca skupienie się na zaawansowanych badaniach.
+
+3. Magiczny Sad Naukowy
+   • Wymagania:
+       - Umiejętność Alchemii lub Engineering: poziom 6-8
+       - Esencja natury: 12 jednostek
+       - Materiały budowlane: 30 cegieł lub kamieni
+   • Koszt:
+       - 130 jednostek badań
+   • Efekt:
+       - Odblokowanie magicznego sadu, generującego pasywnie rzadkie reagenty.
+       - Funkcja "sink" na nadmiar surowców, obniżająca koszty kolejnych badań.
+   • Zastosowanie:
+       - Wsparcie infrastruktury badawczej poprzez obniżenie kosztów eksperymentów i ulepszeń.
+
+4. Transmutacja Materii
+   • Wymagania:
+       - Skill Engineering: poziom 8 oraz wcześniejsze badania (np. "Stabilizacja Niestabilnej Magii")
+       - Surowce: kombinacja Magicznego Drewna, Rud oraz esencji (ognia lub natury)
+   • Koszt:
+       - 200 jednostek badań
+   • Efekt:
+       - Odblokowanie możliwości przekształcania zwykłych materiałów w rzadkie i zaawansowane komponenty.
+       - Receptury na ulepszenia pieców oraz automatycznych systemów zbierających.
+       - Zwiększenie efektywności procesu craftingu przez redukcję strat surowców.
+   • Zastosowanie:
+       - Ścieżka prowadząca do produkcji unikalnych przedmiotów i zaawansowanych technologii.
+
+5. Archeologia Magii
+   • Wymagania:
+       - Skill Historii lub Engineering: poziom 5
+       - Zebranie fragmentów starożytnych artefaktów (np. 3 fragmenty z ruin lub kryształów)
+   • Koszt:
+       - 180 jednostek badań
+   • Efekt:
+       - Odblokowanie dostępu do starożytnych technologii i receptur.
+       - Ulepszenie infrastruktury (np. zwiększenie wydajności pieców, automatycznych kolektorów).
+       - Rozwój dodatkowej ścieżki badań z bonusami do eksploracji świata.
+   • Zastosowanie:
+       - Umożliwienie odkrywania unikalnych technologii oraz wpływanie na rozwój całej infrastruktury badawczej.
+----------------------------------------------------------

@@ -1,0 +1,165 @@
+SHATTERED MAGIC - POST-MAGIC IDLE GAME
+
+ŚWIAT I FABUŁA
+-------------
+W świecie gdzie Wielka Katastrofa doprowadziła do rozpadu fundamentów magii, jej fragmenty rozrzucone są po całym świecie w formie niestabilnych kryształów i anomalii. Jako jeden z niewielu badaczy rozumiejących zarówno starożytną magię jak i nowoczesną technologię, starasz się zbierać i stabilizować te pozostałości.
+
+Różne frakcje walczą o kontrolę nad resztkami magii:
+- Technomanci: Łączą magię z zaawansowaną technologią
+- Konserwatorzy: Próbują zachować czystą magię
+- Transformiści: Chcą wykorzystać chaos do stworzenia nowego porządku
+
+Twoja rola jako badacza i zbieracza staje się kluczowa w konflikcie między frakcjami, podczas gdy odkrywasz prawdę o Wielkiej Katastrofie i możliwości przywrócenia równowagi w świecie.
+
+SYSTEMY UMIEJĘTNOŚCI
+-------------------
+1. Magiczne:
+- Stabilizacja (kontrola niestabilnej magii)
+- Rezonans (łączenie różnych typów magii)
+- Detekcja (wykrywanie magicznych anomalii)
+- Ekstrakcja (wydobywanie magii z kryształów)
+
+2. Technologiczne:
+- Inżynieria (tworzenie i naprawa narzędzi)
+- Synteza (łączenie magii z technologią)
+- Analiza (badanie magicznych właściwości)
+- Automatyzacja (tworzenie samodzielnych systemów)
+
+3. Zbierackie:
+- Krystalizacja (zbieranie magicznych kryształów)
+- Destylacja (oczyszczanie magii)
+- Kataliza (przyspieszanie procesów magicznych)
+- Transmutacja (zmiana typu magii)
+
+4. Rzemieślnicze:
+- Konstruowanie (budowa urządzeń)
+- Enchanting (nasycanie przedmiotów magią)
+- Alchemia (tworzenie mikstur)
+- Runecraft (tworzenie magicznych wzorów)
+
+FAZA 1 - CORE MECHANICS
+----------------------
+1. System zbierania:
+- 4 podstawowe typy magii (Pierwotna, Elementarna, Czasowa, Chaotyczna)
+- Wykrywacz magii i system skanowania
+- System niestabilności magicznej
+- Podstawowe narzędzia do zbierania
+
+2. System craftingu:
+- Łączenie magii z technologią
+- Podstawowe receptury
+- System rezonansów między typami magii
+- Ulepszanie przedmiotów magią
+
+FAZA 2 - PROGRESSION SYSTEMS
+---------------------------
+1. System umiejętności:
+- Specjalizacje w typach magii
+- Rozwój odporności na niestabilność
+- Efektywność zbierania
+- Umiejętności craftingu i badań
+
+2. System badań:
+- Drzewko technologii magicznej
+- System eksperymentów
+- Odkrywanie starożytnych receptur
+- Ulepszenia narzędzi i procesów
+
+FAZA 3 - AUTOMATION & IDLE
+-------------------------
+1. System pracowni:
+- Automatyczne zbieranie magii
+- Stacje przetwarzania magii
+- Stacje badawcze
+- System zarządzania energią magiczną
+
+2. System Stref Magicznych:
+- Dynamiczne strefy na mapie świata
+- System rezonansów między strefami
+- Manipulacja i kontrola stref
+- Budowa stabilizatorów
+
+3. Rozwój Stref:
+- Tworzenie własnych stref magicznych
+- Kontrola przepływu magii
+- Łączenie z systemem pracowni
+- Unikalne kombinacje typów magii
+
+FAZA 4 - CONTENT & ENDGAME
+-------------------------
+1. System frakcji:
+- System reputacji
+- Zlecenia i misje
+- Unikalne receptury frakcyjne
+- Konflikty między frakcjami
+
+2. System anomalii:
+- Wydarzenia losowe w świecie
+- Specjalne wyzwania magiczne
+- Czasowe strefy bonusowe
+- Unikalne nagrody i przedmioty
+
+MONETYZACJA
+-----------
+- Kosmetyczne ulepszenia pracowni
+- Przyspieszacze badań
+- Dodatkowe sloty w pracowni
+- Unikalne wyglądy narzędzi
+
+PROGRESJA GRACZA
+---------------
+1. Początek:
+- Odkrycie podstawowej magii
+- Pierwsze narzędzia do zbierania
+- Nauka podstaw craftingu
+
+2. Mid-game:
+- Rozwój pracowni
+- Badania nad nowymi technologiami
+- Manipulacja strefami magicznymi
+- Interakcje z frakcjami
+
+3. End-game:
+- Zaawansowane badania
+- Tworzenie własnych stref
+- Kontrola anomalii
+- Specjalizacja w wybranych dziedzinach
+
+MECHANIKI DŁUGOTERMINOWE
+-----------------------
+1. System Rezonansów:
+- Odkrywanie nowych kombinacji
+- Wpływ na świat gry
+- Tworzenie unikalnych efektów
+
+2. System Niestabilności:
+- Zarządzanie ryzykiem
+- Wykorzystywanie efektów ubocznych
+- Rozwój zabezpieczeń
+
+3. System Badań:
+- Ciągłe eksperymenty
+- Odkrywanie nowych możliwości
+- Rozwój technologii
+
+4. System Frakcji:
+- Rozwijanie relacji
+- Konflikty i sojusze
+- Specjalne projekty
+
+CELE PROJEKTOWE
+--------------
+1. Gameplay:
+- Aktywna rozgrywka z elementami idle
+- Znaczące wybory gracza
+- Różnorodne style gry
+
+2. Progresja:
+- Płynny rozwój postaci
+- Odkrywanie nowych mechanik
+- Satysfakcjonujące nagrody
+
+3. Długoterminowe zaangażowanie:
+- Głębokie systemy
+- Regularne aktualizacje
+- Społecznościowe elementy

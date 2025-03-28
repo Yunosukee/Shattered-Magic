@@ -79,6 +79,63 @@ Nagrody:
    • Dodatkowe jednostki badań oraz bonus do przyszłych eksperymentów związanych z rekonstrukcją technologii.
 
 ----------------------------------------------------------
+Quest 5 - "Tajemnice Frakcji: Pierwsze Kontakty"
+-------------------------------------------------
+Cel:
+   Wprowadzenie gracza do systemu frakcji i rozpoczęcie budowania reputacji z jedną z głównych grup.
+
+Zadania:
+   • Odnaleźć ukrytą bazę wybranej frakcji (Technomanci, Konserwatorzy lub Transformiści)
+   • Wykonać serię zadań testowych dla frakcji:
+      - Technomanci: Zbudować prototyp urządzenia łączącego magię z technologią
+      - Konserwatorzy: Stabilizować niestabilną strefę magiczną
+      - Transformiści: Przeprowadzić eksperyment z transmutacją materii
+   • Zdobyć zaufanie lidera frakcji poprzez dostarczenie rzadkich surowców specyficznych dla danej frakcji
+
+Nagrody:
+   • Odblokowanie systemu reputacji frakcyjnej
+   • Dostęp do podstawowych receptur i technologii frakcyjnych
+   • Specjalny przedmiot frakcyjny zwiększający efektywność w wybranej dziedzinie
+   • Fragment lore o historii frakcji i jej roli w świecie po Wielkiej Katastrofie
+
+Quest 6 - "Anomalia: Pierwsze Starcie"
+---------------------------------------
+Cel:
+   Wprowadzenie systemu anomalii magicznych i nauka zarządzania niestabilnością.
+
+Zadania:
+   • Zbadać raport o niebezpiecznej anomalii pojawiającej się w pobliżu osady
+   • Skonstruować detektor anomalii wykorzystując wiedzę z badań nad stabilizacją
+   • Zlokalizować źródło anomalii i zebrać dane o jej naturze
+   • Zbudować i zainstalować tymczasowy stabilizator, aby powstrzymać rozprzestrzenianie się anomalii
+
+Nagrody:
+   • Odblokowanie systemu wykrywania i zarządzania anomaliami
+   • Dostęp do nowych surowców występujących tylko w strefach anomalii
+   • Specjalne narzędzie do zbierania niestabilnych esencji
+   • Fragment lore o naturze anomalii i ich związku z Wielką Katastrofą
+
+Quest 7 - "Zapomniana Technologia: Reaktywacja"
+-----------------------------------------------
+Cel:
+   Odkrycie i reaktywacja starożytnego kompleksu technologicznego.
+
+Zadania:
+   • Odnaleźć wskazówki prowadzące do ukrytego kompleksu (wymagane badanie "Archeologia Magii")
+   • Zebrać specjalne komponenty potrzebne do reaktywacji systemów:
+      - Stabilizowane kryształy różnych typów (5 sztuk)
+      - Starożytne schematy (fragmenty rozrzucone po różnych lokacjach)
+      - Esencje elementarne wysokiej czystości
+   • Rozwiązać serię łamigłówek zabezpieczających kompleks
+   • Przeprowadzić sekwencję reaktywacji, balansując przepływ energii magicznej
+
+Nagrody:
+   • Odblokowanie zaawansowanego centrum badawczego z bonusami do wszystkich badań
+   • Dostęp do unikalnych starożytnych technologii
+   • Możliwość tworzenia hybrydowych narzędzi łączących wszystkie poznane typy magii
+   • Obszerny fragment lore o cywilizacji sprzed Katastrofy i jej technologiach
+
+----------------------------------------------------------
 Uwagi:
 Każdy quest został zaprojektowany tak, aby stopniowo rozwijać umiejętności gracza oraz pogłębiać jego wiedzę o świecie. 
 Tutorialowe questy (1 i 2) wprowadzają podstawowe mechaniki i immersję fabularną, natomiast questy zaawansowane (3 i 4) 

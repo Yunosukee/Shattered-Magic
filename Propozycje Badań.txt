@@ -72,4 +72,46 @@ Jednostki badań można pozyskać na kilka sposobów:
        - Rozwój dodatkowej ścieżki badań z bonusami do eksploracji świata.
    • Zastosowanie:
        - Umożliwienie odkrywania unikalnych technologii oraz wpływanie na rozwój całej infrastruktury badawczej.
+
+6. Stabilizacja Niestabilnej Magii
+   • Wymagania:
+       - Skill Stabilizacja: poziom 10
+       - Kryształy Pierwotnej Magii: 15 jednostek
+       - Esencja Chaosu: 8 jednostek
+   • Koszt:
+       - 250 jednostek badań
+   • Efekt:
+       - Odblokowanie technologii stabilizacji niestabilnych kryształów, zwiększającej ich wydajność o 35%
+       - Możliwość tworzenia stabilizatorów stref magicznych, redukujących negatywne efekty anomalii
+       - Nowe receptury wykorzystujące stabilizowane kryształy
+   • Zastosowanie:
+       - Fundament do zaawansowanych badań nad kontrolą anomalii i manipulacją strefami magicznymi
+
+7. Rezonans Międzywymiarowy
+   • Wymagania:
+       - Skill Rezonans: poziom 12
+       - Ukończone badanie "Stabilizacja Niestabilnej Magii"
+       - Fragmenty Artefaktów Czasowych: 5 sztuk
+   • Koszt:
+       - 300 jednostek badań
+   • Efekt:
+       - Odblokowanie technologii tworzenia portali między strefami magicznymi
+       - Możliwość szybkiego transportu między odległymi lokacjami
+       - Zwiększona wydajność zbierania rzadkich surowców poprzez dostęp do wymiarów alternatywnych
+   • Zastosowanie:
+       - Rozwój systemu eksploracji i efektywnego zarządzania rozproszonymi zasobami
+
+8. Synteza Technomantyczna
+   • Wymagania:
+       - Skill Synteza: poziom 15
+       - Skill Engineering: poziom 12
+       - Ukończone badania "Transmutacja Materii" i "Autonomiczny Zbieracz Rudy"
+   • Koszt:
+       - 350 jednostek badań
+   • Efekt:
+       - Odblokowanie zaawansowanych urządzeń łączących magię z technologią
+       - Możliwość tworzenia samouczących się automatów do zbierania i przetwarzania surowców
+       - Nowe receptury na hybrydowe narzędzia o zwiększonej wydajności
+   • Zastosowanie:
+       - Znaczące przyspieszenie rozwoju infrastruktury i automatyzacji procesów
 ----------------------------------------------------------

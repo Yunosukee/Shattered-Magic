@@ -13,9 +13,6 @@ public class InventorySlot : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     private Transform originalParent;
     private CanvasGroup canvasGroup;
     private RectTransform rectTransform;
-    private float tooltipDelay = 2f;
-    private bool isHovering = false;
-    private Coroutine tooltipCoroutine;
 
     void Awake()
     {

@@ -12,6 +12,13 @@ public class GameInitializer : MonoBehaviour
     private GameObject inventoryPanel;
     private GameObject resourcePanel;
     private GameObject craftingPanel;
+    private GameObject questPanel;
+    //private QuestManager questManager;
+    //private ResearchManager researchManager;
+    //private PlayerSkills playerSkills;
+    //private ResourceManager resourceManager;
+
+
 
     void Start()
     {
@@ -46,6 +53,10 @@ public class GameInitializer : MonoBehaviour
         systems.AddComponent<ResourceGatherer>();
         systems.AddComponent<MagicStabilitySkill>();
         systems.AddComponent<CraftingSystem>();
+        systems.AddComponent<ResourceManager>();
+        systems.AddComponent<PlayerSkills>();
+        systems.AddComponent<QuestManager>();
+        systems.AddComponent<ResearchManager>();
 
         // Setup UI
         CreatePanels();
@@ -104,6 +115,9 @@ public class GameInitializer : MonoBehaviour
         craftingPanel = CreatePanel("CraftingPanel");
         craftingPanel.AddComponent<CraftingUI>();
 
+        questPanel = CreatePanel("QuestPanel");
+        questPanel.AddComponent<QuestUI>();
+
         GameObject toastObj = new GameObject("ToastNotification");
         toastObj.transform.SetParent(mainCanvas.transform, false);
         toastObj.AddComponent<ToastNotification>();
@@ -151,6 +165,7 @@ public class GameInitializer : MonoBehaviour
         CreateNavButton("Inventory", new Vector2(startX + buttonWidth + buttonSpacing, 0), buttonContainer);
         CreateNavButton("Resources", new Vector2(startX + (buttonWidth + buttonSpacing) * 2, 0), buttonContainer);
         CreateNavButton("Crafting", new Vector2(startX + (buttonWidth + buttonSpacing) * 3, 0), buttonContainer);
+        CreateNavButton("Quests", new Vector2(startX + (buttonWidth + buttonSpacing) * 4, 0), buttonContainer);
 
         Debug.Log("[GameInitializer] Navigation buttons created");
     }
@@ -202,12 +217,22 @@ public class GameInitializer : MonoBehaviour
         SwitchPanel(panelName);
     }
 
+    public void UnlockBuilding(string buildingId)
+    {
+        Debug.Log($"[GameInitializer] Unlocked building: {buildingId}");
+        // Implement your building unlock logic here
+
+        // Show notification
+        ToastNotification.Instance.ShowToast($"Unlocked new building: {buildingId}", ToastType.Success);
+    }
+
     public void SwitchPanel(string panelName)
     {
         skillsPanel.SetActive(false);
         inventoryPanel.SetActive(false);
         resourcePanel.SetActive(false);
         craftingPanel.SetActive(false);
+        questPanel.SetActive(false);
 
         switch (panelName)
         {
@@ -222,6 +247,9 @@ public class GameInitializer : MonoBehaviour
                 break;
             case "Crafting":
                 craftingPanel.SetActive(true);
+                break;
+            case "Quests":
+                questPanel.SetActive(true);
                 break;
         }
         Debug.Log($"[GameInitializer] Switched to panel: {panelName}");

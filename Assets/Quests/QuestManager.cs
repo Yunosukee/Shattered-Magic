@@ -1,13 +1,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
-using System.Resources;
 
 public class QuestManager : MonoBehaviour
 {
     public static QuestManager Instance { get; private set; }
 
     [SerializeField] private List<QuestItem> allQuests = new List<QuestItem>();
+    [SerializeField] private ItemDatabase itemDatabase;
     private Dictionary<string, QuestItem> questDictionary = new Dictionary<string, QuestItem>();
 
     private void Awake()
@@ -22,11 +22,13 @@ public class QuestManager : MonoBehaviour
             Destroy(gameObject);
         }
 
-        // Inicjalizacja s³ownika dla szybkiego dostêpu
+        // Initialize dictionary for quick access
         foreach (var quest in allQuests)
         {
             questDictionary[quest.id] = quest;
         }
+
+        Debug.Log("[QuestManager] Initialized with " + allQuests.Count + " quests");
     }
 
     public bool CanStartQuest(string questId)
@@ -56,7 +58,7 @@ public class QuestManager : MonoBehaviour
         quest.isActive = true;
 
         // Powiadom UI o rozpoczêciu questa
-        UIManager.Instance.ShowQuestStartedNotification(quest.title);
+        ToastNotification.Instance.ShowToast($"Quest started: {quest.title}", ToastType.Info);
 
         return true;
     }
@@ -104,7 +106,8 @@ public class QuestManager : MonoBehaviour
                     ResourceManager.Instance.AddResource(reward.rewardId, reward.amount);
                     break;
                 case QuestReward.RewardType.Item:
-                    InventoryManager.Instance.AddItem(reward.rewardId, reward.amount);
+                    uint itemId = uint.Parse(reward.rewardId);
+                    InventorySystem.Instance.AddItem(itemId, reward.amount);
                     break;
                 case QuestReward.RewardType.Skill:
                     PlayerSkills.Instance.AddSkillExperience(reward.rewardId, reward.amount);
@@ -116,7 +119,7 @@ public class QuestManager : MonoBehaviour
         }
 
         // Powiadom UI o ukoñczeniu questa
-        UIManager.Instance.ShowQuestCompletedNotification(quest.title);
+        ToastNotification.Instance.ShowToast($"Quest completed: {quest.title}", ToastType.Success);
     }
 
     public List<QuestItem> GetAvailableQuests()

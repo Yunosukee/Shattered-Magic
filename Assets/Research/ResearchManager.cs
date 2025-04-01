@@ -85,7 +85,8 @@ public class ResearchManager : MonoBehaviour
         ApplyResearchEffects(research);
 
         // Powiadom UI o ukoñczeniu badania
-        UIManager.Instance.ShowResearchCompletedNotification(research.title);
+        ToastNotification.Instance.ShowToast($"Research completed: {research.title}", ToastType.Success);
+
 
         return true;
     }
@@ -97,10 +98,10 @@ public class ResearchManager : MonoBehaviour
         switch (research.id)
         {
             case "furnace_unlock":
-                GameManager.Instance.UnlockBuilding("furnace");
+                GameInitializer.Instance.UnlockBuilding("furnace");
                 break;
             case "autonomous_gatherer":
-                GameManager.Instance.UnlockBuilding("auto_gatherer");
+                GameInitializer.Instance.UnlockBuilding("auto_gatherer");
                 break;
                 // itd. dla ka¿dego badania
         }
